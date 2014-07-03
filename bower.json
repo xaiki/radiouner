@@ -1,0 +1,28 @@
+{
+  "name": "radiouner",
+  "version": "0.0.0",
+  "authors": [
+    "Niv Sardi <xaiki@evilgiggle.com>"
+  ],
+  "description": "simple audiojs player for @radiouner",
+  "main": "index.html",
+  "keywords": [
+    "radio",
+    "streaming",
+    "audio",
+    "html5"
+  ],
+  "license": "AGPLv3",
+  "homepage": "github.com/xaiki/radiouner",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "audiojs": "*"
+  }
+}
