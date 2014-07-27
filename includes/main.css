@@ -2,4 +2,10 @@ body{
     padding:155px 0 0 0;
     margin:0;
     background:url(http://www.siruner.uner.edu.ar/sites/all/themes/radios/images/radio.91.3.jpg) no-repeat top;
+    width: 100%;
+}
+
+#container {
+    display: table;
+    margin: 0 auto;
 }
